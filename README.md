@@ -17,6 +17,10 @@ Features Score, Health, Death Screen, Screen Scaling.
 
 # Works on every device with a modern browser.
 
+![IMG_2097](https://user-images.githubusercontent.com/40367739/110624165-e919b200-81ae-11eb-9c1a-68b6d1b58bc7.PNG)
+
 Sounds were generated using sfxia: https://rxi.itch.io/sfxia
+
+Play at: http://applevegas.github.io/TheGame/
 
 Feel free to edit and use the code in your own projects, but please credit me.
