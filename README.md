@@ -1,8 +1,8 @@
 # TheGame
 
-![Screenshot_176](https://user-images.githubusercontent.com/40367739/110623321-be7b2980-81ad-11eb-8f01-6fae5fb9656e.png)
-
 Simple game made in HTML5 and JS for a project
+
+![Screenshot_176](https://user-images.githubusercontent.com/40367739/110623321-be7b2980-81ad-11eb-8f01-6fae5fb9656e.png)
 
 Shoot Meteors (circles) and gain scrore, shoot heal meteors to gain health and score.
 
