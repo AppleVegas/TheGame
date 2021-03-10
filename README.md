@@ -17,7 +17,12 @@ Features Score, Health, Death Screen, Screen Scaling.
 
 # Works on every device with a modern browser.
 
-![IMG_2097](https://user-images.githubusercontent.com/40367739/110624165-e919b200-81ae-11eb-9c1a-68b6d1b58bc7.PNG)
+<details>
+  <summary>Screenshot</summary>
+  
+  ![IMG_2097](https://user-images.githubusercontent.com/40367739/110624498-53325700-81af-11eb-94f3-ffe2eb21bc21.PNG)
+  
+</details>
 
 Sounds were generated using sfxia: https://rxi.itch.io/sfxia
 
