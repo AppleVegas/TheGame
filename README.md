@@ -18,9 +18,9 @@ Features Score, Health, Death Screen, Screen Scaling.
 # Works on every device with a modern browser.
 
 <details>
-  <summary>Screenshot</summary>
+  <summary>Example</summary>
   
-  ![IMG_2097](https://user-images.githubusercontent.com/40367739/110624498-53325700-81af-11eb-94f3-ffe2eb21bc21.PNG)
+  ![6](https://user-images.githubusercontent.com/40367739/110690702-4e909180-81f5-11eb-9687-eb4f11f8e610.png)
   
 </details>
 
