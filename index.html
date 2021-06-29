@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <title>The Game</title>
   <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="https://unpkg.com/@vkontakte/vk-bridge/dist/browser.min.js"></script>
   <style>
     body {
       background: #111;
@@ -34,4 +35,7 @@
     </div>
   </body>
   <script src="script.js"></script>
+  <script>
+    vkBridge.send('VKWebAppInit');
+  </script>
 </html>
